@@ -19,9 +19,3 @@ A sleek and minimalistic chat application that uses **Google's Gemini AI** to pr
 - **Backend**: Node.js
 - **AI Engine**: Google Gemini API (via Generative Language API)
 ---
-
-## 📸 Screenshots
-
-> _Add a few screenshots or a GIF of your app here_
-```bash
-📷 Coming soon!
